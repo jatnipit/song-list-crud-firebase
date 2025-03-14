@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "386058494403",
+    "project_id": "jatnipit-konggasame",
+    "storage_bucket": "jatnipit-konggasame.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386058494403:android:5e59ab3ea3fe207ffc1d76",
+        "android_client_info": {
+          "package_name": "com.example.jatnipit_konggasame_music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLqQW--4EQmgq2WwQRfYu9MHlHyrDmy2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
